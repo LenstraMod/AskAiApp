@@ -23,3 +23,4 @@ The app supports chat sessions, history management, authentication, and profile 
 
 The project follows **MVVM + Repository pattern**.
 
+For best experience please use light mode
