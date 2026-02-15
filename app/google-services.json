@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10153375897",
+    "project_id": "askaiapp-55686",
+    "storage_bucket": "askaiapp-55686.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10153375897:android:ba362cc59c3c893da12008",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD96cslsLLurdNizY2F5GjbJfJ8pMEDF3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
